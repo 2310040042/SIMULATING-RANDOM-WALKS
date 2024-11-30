@@ -1,2 +1,2 @@
 # SIMULATING-RANDOM-WALKS
-Random walks model random processes, analyzing their behavior across various dimensions.
+ Project simulating random walks across various dimensional spaces (1D, 2D, and 3D) with different variations
